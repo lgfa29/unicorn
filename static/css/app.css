@@ -1,0 +1,44 @@
+html, body {
+    margin: 0;
+}
+
+.sp-container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #FFF;
+    border: 0;
+}
+
+.sp-picker-container {
+    width: 100vw;
+    height: 100vh;
+    border: 0;
+    padding: 0;
+}
+
+.sp-button-container {
+    display: none;
+}
+
+.sp-color,
+.sp-hue {
+    border: 0;
+    height: 100vh;
+}
+
+.sp-color {
+    right: 30%;
+}
+
+.sp-hue {
+    left: 70%;
+}
+
+.sp-fill {
+    display: none;
+}
+
+.sp-top {
+    margin: 0;
+}
+
